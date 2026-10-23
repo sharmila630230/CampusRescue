@@ -1,0 +1,13 @@
+# Java / Maven build output
+target/
+*.class
+
+# Local demo data may contain private information. Never commit it.
+data/*.ser
+
+# IntelliJ local settings
+.idea/
+*.iml
+
+# Logs
+*.log
